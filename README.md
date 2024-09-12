@@ -27,11 +27,11 @@ This project implements a real-time chatbot using WebSockets, with support for *
 ### Prerequisites
 - Node.js (>=14.x)
 - MongoDB
-- Optional: OpenAI API Key
+- API Keys: OpenAI API Key or Replicate API Key
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-repo/websocket-llm-chatbot.git
+git clone https://github.com/Manish-KT/MMNOVATECH-assignment.git
 cd websocket-llm-chatbot
 ```
 
@@ -131,3 +131,7 @@ REPLICATE_API_TOKEN=your-replicate-api-token-here
 
 ## License
 This project is licensed under the MIT License.
+
+## Author
+
+This project was created by Manish Kumar Tailor. For more projects and information, visit my portfolio at [Portfolio](https://manish-kt.github.io/portfolio-website/).
