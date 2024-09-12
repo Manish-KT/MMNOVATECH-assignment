@@ -12,6 +12,7 @@ This project implements a real-time chatbot using WebSockets, with support for *
 ├── .env                  # Environment variables (OpenAI API Key / Replicate Meta-LLAMA)
 ├── index.js              # Main WebSocket server
 ├── package.json          # Dependencies and scripts
+├── testing_replicate.js  # Testing API key for the project.
 └── README.md             # Project documentation
 ```
 
