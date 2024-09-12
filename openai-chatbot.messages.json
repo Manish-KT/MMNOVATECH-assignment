@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "66e2938c241de7a629873a1c"
+  },
+  "input": "Test input",
+  "output": "Test output",
+  "timestamp": {
+    "$date": "2024-09-12T07:09:00.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e293b9396661a9d9d0a919"
+  },
+  "input": "Test input",
+  "output": "Test output",
+  "timestamp": {
+    "$date": "2024-09-12T07:09:45.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e293c987b4698f75492853"
+  },
+  "input": "Test input",
+  "output": "Test output",
+  "timestamp": {
+    "$date": "2024-09-12T07:10:01.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e293cc3e68ddd939d24250"
+  },
+  "input": "Test input",
+  "output": "Test output",
+  "timestamp": {
+    "$date": "2024-09-12T07:10:04.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e29c79f97d75ff8220e913"
+  },
+  "input": "cls",
+  "output": "It seems like you're trying to clear the screen. Since we are in a text-based environment, I'll simulate a screen clear by adding some whitespace.\n\n\n-----------------------------------------------\n\nThe screen has been \"cleared\". How can I assist you today?{}",
+  "timestamp": {
+    "$date": "2024-09-12T07:47:05.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e29c9bf97d75ff8220e915"
+  },
+  "input": "Hello, server!",
+  "output": "Hello! It's nice to meet you. Is there something I can help you with today?{}",
+  "timestamp": {
+    "$date": "2024-09-12T07:47:39.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e29cbff97d75ff8220e917"
+  },
+  "input": "Hello, server!",
+  "output": "Hello! It's nice to meet you. Is there something I can help you with today? Do you have a question, need assistance with a task, or just want to chat? I'm here to help!{}",
+  "timestamp": {
+    "$date": "2024-09-12T07:48:15.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e29cddf97d75ff8220e919"
+  },
+  "input": "Hello, server!",
+  "output": "Hello! How can I assist you today? Do you have a question, need help with a problem, or just want to chat? I'm here to help!{}",
+  "timestamp": {
+    "$date": "2024-09-12T07:48:45.761Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e29d2af97d75ff8220e91b"
+  },
+  "input": "hi",
+  "output": "How can I assist you today?{}",
+  "timestamp": {
+    "$date": "2024-09-12T07:50:02.486Z"
+  },
+  "__v": 0
+}]
