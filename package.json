@@ -1,0 +1,17 @@
+{
+  "name": "mmnovatech-assignment",
+  "version": "1.0.0",
+  "description": "Assignmnet for MMNOVATECH. Wensocket based openai intergration where data is stored in database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.6.2",
+    "openai": "^4.59.0",
+    "replicate": "^0.32.1",
+    "ws": "^8.18.0"
+  }
+}
